@@ -1,2 +1,2 @@
 # rss urls
-[global infomations](./global.rss)
+[global infomations](./global_info.rss)
